@@ -65,3 +65,7 @@ body {
 .button:hover {
     background-color: #777;
 }
+
+p {
+    color: #fff;
+}
